@@ -35,3 +35,6 @@ python dcgan.py --flagfile ./config/DCGAN.txt
 ```c
 python wgan.py --flagfile ./config/WGAN.txt
 ```
+## need to be downloaded
+* stats folder (includes test data)
+* logs (include trained models)
