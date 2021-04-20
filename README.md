@@ -24,7 +24,7 @@ python dcgan.py --flagfile ./config/DCGAN.txt
 python wgan.py --flagfile ./config/WGAN.txt
 ```
 
-### Training
+### Testing
 * Download the trained model(logs folder) from the link provided in the report
 * Change "Generate" to True in DCGAN.txt and WGAN.txt
 * DCGAN
